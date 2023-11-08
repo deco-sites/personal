@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/personal/": "./",
+
     "deco-sites/bf-thealfred/": "./",
     "deco-sites/start/": "./",
     "deco-sites/std/": "https://denopkg.com/deco-sites/std@1.12.19/",
